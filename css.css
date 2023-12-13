@@ -1,0 +1,70 @@
+.body{
+     margin-top: 5px;
+}
+ 
+
+.thd1{
+      margin-top:1px;
+
+}
+
+
+
+
+.h1{
+ 
+
+     background-color: rgb(9, 19, 160);
+     color: brown; 
+     text-transform: capitalize;
+     letter-spacing: 3px;
+     text-align: center;
+     
+} 
+
+.h11{
+     background-color: rgb(10, 10, 164);
+      color: white; 
+
+
+
+}
+
+
+.div001{
+     width:350px;height: 670px;
+     background-image: url(img/back3.png);
+     background-repeat: no-repeat;
+}
+
+
+      
+
+
+
+.divv{
+         background-color: blue;
+         width: 600px ; height: 600px;
+         
+
+}
+
+
+.divv2{
+     height: 430px; width: 920px;
+
+       background-image: url(img/webpic.png);
+}
+
+
+
+
+.divv3{
+     height: 560px; width: 980px;
+     background-image: url(img/frindes.jpg);
+     
+}
+
+.tbl1{
+     text-align: center;
+}
